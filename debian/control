@@ -1,0 +1,47 @@
+Source: xentasources
+Section: admin
+Priority: optional
+Maintainer: Dindin Hernawan (Xenta OS) <root@dev.xentaos.org>
+Build-Depends: debhelper (>=9)
+Standards-Version: 3.9.7
+Homepage: https://github.com/xentaos/xentasources
+Vcs-Browser: https://github.com/xentaos/xentasources.gitt
+
+Package: xentasources
+Architecture: all
+Essential: yes
+Depends: python (>= 2.4), python (<< 3), python-gtk2, python-glade2, python-pycurl, synaptic, dash
+Replaces: software-properties-common (<< 1), software-properties-gtk (<< 1), software-properties-kde (<< 1), python-software-properties (<< 1), python3-software-properties (<< 1)
+Description: Paket Aplikasi Untuk Mengelola Repository Xenta OS.
+ Bisa Juga Untuk Mengelola Pilihan Mirror Repositori, PPA, 
+ Keyring Xenta OS semua edisi. 
+
+Package: software-properties-common
+Architecture: all
+Depends: xentasources
+Description: Paket Pasangan xentasources
+ Paket ini sudah usang dan diganti dengan xentasources.
+
+Package: software-properties-gtk
+Architecture: all
+Depends: xentasources
+Description: Paket Pasangan xentasources
+ Paket ini sudah usang dan diganti dengan xentasources.
+
+Package: software-properties-kde
+Architecture: all
+Depends: xentasources
+Description: Paket Pasangan xentasources
+ Paket ini sudah usang dan diganti dengan xentasources.
+
+Package: python-software-properties
+Architecture: all
+Depends: xentasources
+Description: Paket Pasangan xentasources
+ Paket ini sudah usang dan diganti dengan xentasources.
+
+Package: python3-software-properties
+Architecture: all
+Depends: xentasources
+Description: Transitional package
+ This package is obsolete and replaced with xentasources.
