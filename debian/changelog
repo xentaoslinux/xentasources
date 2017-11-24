@@ -1,3 +1,9 @@
+xentasources (1.6.7) arok; urgency=medium
+
+  * Terjemahan dipindah ke xenta-translate
+
+ -- Dindin Hernawan (Xenta OS) <root@dev.xentaos.org>  Thu, 16 Nov 2017 00:10:21 +0700 
+
 xentasources (1.6.5) arok; urgency=medium
 
   * Memperbaiki berkas debian/*
