@@ -1,0 +1,12 @@
+Package: python-software-properties
+Source: xentasources
+Version: 1.6.9
+Architecture: all
+Maintainer: Dindin Hernawan (Xenta OS) <dindin_hernawan@yahoo.com>
+Installed-Size: 11
+Depends: xentasources
+Section: admin
+Priority: optional
+Homepage: https://github.com/xentaoslinux/xentasources
+Description: Paket Pasangan xentasources
+ Paket ini sudah usang dan diganti dengan xentasources.
