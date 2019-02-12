@@ -1,11 +1,11 @@
 Source: xentasources
 Section: admin
 Priority: optional
-Maintainer: Dindin Hernawan (Xenta OS) <root@dev.xentaos.org>
+Maintainer: Dindin Hernawan (Xenta OS) <dindin_hernawan@yahoo.com>
 Build-Depends: debhelper (>=9)
 Standards-Version: 3.9.7
-Homepage: https://github.com/xentaos/xentasources
-Vcs-Browser: https://github.com/xentaos/xentasources.gitt
+Homepage: https://github.com/xentaoslinux/xentasources
+Vcs-Browser: https://github.com/xentaoslinux/xentasources.gitt
 
 Package: xentasources
 Architecture: all
