@@ -5,7 +5,7 @@ Maintainer: Dindin Hernawan (Xenta OS) <dindin_hernawan@yahoo.com>
 Build-Depends: debhelper (>=9)
 Standards-Version: 3.9.7
 Homepage: https://github.com/xentaoslinux/xentasources
-Vcs-Browser: https://github.com/xentaoslinux/xentasources.gitt
+Vcs-Browser: https://github.com/xentaoslinux/xentasources.git
 
 Package: xentasources
 Architecture: all
