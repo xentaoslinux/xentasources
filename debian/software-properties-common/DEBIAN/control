@@ -1,6 +1,6 @@
 Package: software-properties-common
 Source: xentasources
-Version: 1.6.9
+Version: 1.7.0+xentaos2
 Architecture: all
 Maintainer: Dindin Hernawan (Xenta OS) <dindin_hernawan@yahoo.com>
 Installed-Size: 11
